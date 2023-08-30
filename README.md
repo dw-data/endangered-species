@@ -65,6 +65,8 @@ In order to visualise whether there is a correlation between the share of enviro
 
 The [RLI](https://www.iucnredlist.org/assessment/red-list-index) shows 'trends in overall extinction risk for species, and is used by governments to track their progress towards targets for reducing biodiversity loss'. However, the index is not available for all animal genera. Currently, the RLI is available for five taxonomic groups only. These include birds, mammals, amphibians, cycads and warm-water reef-forming corals. For an assessment of national development, the RLI is weighted according to the species known there.
 
+You can follow the detailed analysis on RLI change [here](https://deutschewelle-my.sharepoint.com/:x:/g/personal/michel_penke_dw_com/ET0C-3R_7VBKlj4WuIIu9XcBjKxlRZWikQvF1fBE0NsZzQ?e=fnHBA8). 
+
 ![](graphics/money_protection.jpg)
 
 _Caveats: However, as not all species have been scientifically recorded, the weighting is very likely subject to bias. Accordingly, the RLI is also likely to be only an approximation of the actual state of biodiversity loss in the respective countries._
