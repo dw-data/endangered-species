@@ -53,7 +53,7 @@ _Caveats: The data comes from the subjective assessment of experts who have incl
 
 ### Share of environment protection spending
 
-The data in the third chart are from an IMF survey and were collected in the national currency.
+The data in the third chart are from an IMF survey and were collected in the national currency. When selecting the countries, preference was given to those nations that are of particular importance to the respective continent due to their political and economic size. However, data was not available for all economies. Countries with a special historical relationship to the focus countries were selected as comparative variables. In addition, emphasis was placed on maintaining the maximum range of maximum and minimum values. 
 
 ![](graphics/money_share.jpg)
 
