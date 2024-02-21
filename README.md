@@ -6,7 +6,7 @@ _Research, data analysis and data visualization:_  [Julia Merk](https://www.link
 _Writing:_  [Michel Penke](https://michelpenke.de)
 
 **Read the full articles on DW.com:**
-- [XXX](XXX)
+- [Biodiversity crisis: But there is hope for survival](dw.com/a-68065066)
 
 Humans are currently causing the sixth mass extinction of plant and animal species. But some populations are growing against the trend. The reason: good conservation measures. What works in species conservation - and what doesn't.
 Not all species face extinction, but biodiversity loss impacts ecosystems. 
